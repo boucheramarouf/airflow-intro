@@ -1,0 +1,8 @@
+.venv/
+logs/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+airflow_home/
+*.pdf
